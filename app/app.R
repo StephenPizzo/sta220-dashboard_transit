@@ -9,7 +9,6 @@ library(tidyverse)
 # The Data ---------------------------------------------------------------------------------------
 
 # Save your cleaned data in app/data/, then delete the # below.
-# Yes, you will have cleaned data in two places in your repo.
 # my_data <- read_csv("data/my_data.csv")
 
 
@@ -17,13 +16,13 @@ library(tidyverse)
 
 ui <- fluidPage(
   
-  titlePanel("your title"),
-  p("For: who is making the decision"),
-  p("The decision: the one decision this dashboard helps with"),
+  titlePanel("Commuting from Mercer County To Philadelphia"),
+  p("For: Current and New Residents Commuting From Mercer County"),
+  p("The decision: Which Town gives you the shortest Train Trip and is Driving Faster?"),
   
   selectInput(inputId = "pick", label = "Pick one:", choices = c("choice 1", "choice 2")),
   
-  h3("Figure 1. title"),
+  h3("Door-to-Door Train Commute to Philadelphia by Town"),
   plotOutput(outputId = "fig_1"),
   p("a sentence or two saying what the figure shows."),
   
