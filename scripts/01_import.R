@@ -113,7 +113,7 @@ clean_mercer_master <- mutate(
 )
 
 write_csv(clean_mercer_master, "data/clean_mercer_master.csv")
-
+write_csv(clean_mercer_master, "app/data/clean_mercer_master.csv")
 
 
 
