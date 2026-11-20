@@ -1,0 +1,13 @@
+town,drive_to_trenton_min,drive_to_philly_min,census_baseline_min,parking_buffer_min,septa_ride_min,total_train_commute_min,mercer_median_train_min,faster_option
+East Windsor Township,27.5,69.2,26.8,10,51,88.5,81.8,Driving is Faster
+Ewing Township,9.8,52.4,24.1,10,51,70.8,81.8,Driving is Faster
+Hamilton Township,14,59.4,24.7,10,51,75,81.8,Driving is Faster
+Hightstown Borough,25.6,67.1,23.6,10,51,86.6,81.8,Driving is Faster
+Hopewell Borough,28.4,67.3,29.7,10,51,89.4,81.8,Driving is Faster
+Hopewell Township,21.8,59.8,28.5,10,51,82.8,81.8,Driving is Faster
+Lawrence Township,15.9,58.5,28.7,10,51,76.9,81.8,Driving is Faster
+Pennington Borough,18.2,56.2,27.3,10,51,79.2,81.8,Driving is Faster
+Princeton,23.3,67.4,24.2,10,51,84.3,81.8,Driving is Faster
+Robbinsville Township,21.5,62.3,36.1,10,51,82.5,81.8,Driving is Faster
+Trenton City,3.2,50.4,26.9,10,51,64.2,81.8,Driving is Faster
+West Windsor Township,20.1,66.9,38.6,10,51,81.1,81.8,Driving is Faster
