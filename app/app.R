@@ -24,9 +24,9 @@ ui <- fluidPage(
   
   h3("Door-to-Door Train Commute to Philadelphia by Town"),
   plotOutput(outputId = "fig_1"),
-  p("a sentence or two saying what the figure shows."),
+  p("Shows the breakdown of the amount of time taken for each train ride in each town in Mercer County"),
   
-  h3("Figure 2. title"),
+  h3("Figure 2 title"),
   plotOutput(outputId = "fig_2"),
   p("a sentence or two saying what the figure shows."),
   
